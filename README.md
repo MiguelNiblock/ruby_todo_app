@@ -4,6 +4,6 @@
 
     
   
-  See it in deployed at:
+  See it deployed at:
   
   https://miguel-todo-app.herokuapp.com/todos
