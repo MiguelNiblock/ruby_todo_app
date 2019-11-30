@@ -1,7 +1,7 @@
-class CreateTodos < ActiveRecord::Migration[6.0]
+class CreateTodos < ActiveRecord::Migration[5.2]
   def change
     create_table :todos do |t|
-      t.text :name
+      t.string :name
       t.text :description
     end
   end
