@@ -1,9 +1,8 @@
-- Ruby version 2.6.5
+# To Do App
 
-- Rails version 5.2.2
+MVC (Model View Controller) app deployed on Heroku, that uses a postgreSQL database for storing todos. To-dos are persistent, so you may visit the [live page](https://miguel-todo-app.herokuapp.com/todos) and add/edit/delete some if you wish!.
 
-    
-  
-  See it deployed at:
-  
-  https://miguel-todo-app.herokuapp.com/todos
+![banner](todoruby_screenshot.png)
+
+- **Live app URL-** https://miguel-todo-app.herokuapp.com/todos
+
